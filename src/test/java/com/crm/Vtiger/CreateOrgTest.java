@@ -8,6 +8,8 @@ public class CreateOrgTest {
 		
 		System.out.println("user 1 created organization");
 		
+		System.out.println("organization updated");
+		
 	}
 
 }
